@@ -8,6 +8,6 @@ namespace Identity.Domain.Entities
         public int UserId { get; set; }
         public Name Name { get; set; }
         public Email Email { get; set; }
-        public string Password { get; set; }
+        public Password Password { get; set; }
     }
 }
