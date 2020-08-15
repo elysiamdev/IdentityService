@@ -4,7 +4,6 @@ using Identity.Domain.ValueObjects;
 
 using Xunit;
 
-
 namespace Identity.Tests.Entities
 {
     public class UserTests
